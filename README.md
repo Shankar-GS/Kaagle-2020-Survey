@@ -1,2 +1,2 @@
-# Kaagle-2020-Survey
+# Kaggle-2020-Survey
 Data Science Pipeline(Analysis &amp; Visualization)
